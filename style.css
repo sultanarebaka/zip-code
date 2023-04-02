@@ -1,0 +1,81 @@
+.icon-remove, .icon-check {
+    display: none;
+  }
+  .message-body{
+    color:red;
+    width:1194px;
+    height:84px;
+    font-size: 1.3em;
+    padding-top: 1.3vh;
+    padding: 18px;
+    border: 1px solid red;
+    margin-top: 30px;
+    margin-left: 22px;
+  
+
+  }
+
+  .hero-body{
+    background:#CFFF8D;
+    width: 18000px;
+    height:140px;
+    outline: #CFFF8D solid 68px;
+    padding-left: 155px;
+    padding-top: 2.8vh;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    
+  }  
+
+.icon{
+    padding-left: 1px ;
+    padding-bottom: 3px;
+    
+    
+}
+form{
+  height:800px;
+  padding: 0px 150px 0px 0px;
+  padding-top: 1vh;
+  
+  
+  
+
+}
+
+
+
+
+h1, h4{
+    font-family: Arial, Helvetica, sans-serif;
+     padding-bottom: 0px;
+      margin: 0;
+      word-spacing: 2px;
+      padding-top: 9px;
+}
+h1{
+    font-family: Times;
+    font-size: 1.8em;
+    padding-top: 3vh;
+}
+h4{
+    font-family: 'Times New Roman';
+    padding-top: 1px;
+    font-weight: 70;
+    font-size: 1.1em;
+    padding-bottom: 0px;
+}
+.zip{
+    background: white;
+    color: black;
+    font-family: Times;
+    height: 31px;
+    padding: 0px 900px 0px 22px;
+    padding-top: 2.2vh;
+    padding-bottom: 15px;
+    border: 1px black;
+    font-weight: 750;
+    margin-top: 2px;
+    margin-right:20px ;
+    
+}
