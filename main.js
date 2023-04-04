@@ -25,7 +25,7 @@ function getLocationInfo(e) {
         `
         <article class="message is-danger">
           <div class="message-body">
-            Invalid Zip Code.
+            Invalid Zip Code, 
             Please try again.
           </div>
         </article>
